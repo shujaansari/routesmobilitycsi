@@ -24,7 +24,9 @@ cd ..
 
 tar xvfz curlpp_v0.7.4
 
-cd curlpp-0.7.4/./autogen.sh 
+cd curlpp-0.7.4/
+
+./autogen.sh 
 
 ./configure 
 
